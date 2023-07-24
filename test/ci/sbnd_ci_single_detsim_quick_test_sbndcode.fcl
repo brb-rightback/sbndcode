@@ -2,3 +2,4 @@
 
 services.NuRandomService.policy: "perEvent"
 
+services.RandomNumberGenerator.saveTo: "DetSimRandomSeeds.dat"
